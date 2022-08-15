@@ -72,38 +72,6 @@ body{
     }
   }
 /* css for phone,text & signup */
-/* .phone{
-    float: left;
-    margin-top: 50px ;
-    margin-bottom: 50px;
-    margin-left: 100px;
-    margin-right: 40px;
-    width:40%;
-    display: inline-block;
-}
-.content{
-  display:inline-block;
-} */
-/* .content ul{
-    list-style: none;
-    padding-left: 30px;
-    color:white;
-    font-size: 18px;
-    font-weight: 300;
-    margin-top: 20px;
-} */
-/* .para{
-    display:inline-block;
-    padding-left: 30px;
-    color:white;
-    font-size: 18px;
-    font-weight: 300;
-    margin-top: 20px;
-}
-.content p {
-    text-align: justify;
-    font-size: 15px;
-  } */
 .button1{
   margin:0  auto;
   text-align: center;
